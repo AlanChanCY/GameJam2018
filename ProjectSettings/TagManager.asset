@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Helper
+  - LivesPickup
+  - EnemyBullet
+  - Enemy
+  - Home
+  - Rocks
+  - Radar
+  - Sonar
+  - Large Asteroid
+  - Small Asteroid
+  - Scene
+  - Blip
+  - HomeFrame
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Collider
+  - Sonar
+  - Compass
+  - Minimap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
